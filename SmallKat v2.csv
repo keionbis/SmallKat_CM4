@@ -56,5 +56,6 @@ Comment,Designator,Footprint,LCSC
 "PCA9685BS","U1","Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm",""
 "BNO055","U2","Package_LGA:LGA-28_5.2x3.8mm_P0.5mm",""
 "ESP32-WROOM-32","U3","RF_Module:ESP32-WROOM-32",""
-"CP2102N-A01-GQFN24","U4","Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",""
+"CP2102N-A01-GQFN28","U4","Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",""
+"ISM330DLCTR","U5","ISM330DLCTR:PQFN50P250X300X86-14N",""
 "32.768kHz","Y1","Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm",""
